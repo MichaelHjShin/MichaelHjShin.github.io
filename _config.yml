@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Dev-Lab-Memory"
+title                    : "@ToDo Dev/Learn/Create Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Michael HJ Shin"
-description              : "경험하고 새롭게 알게되는 모든 내용에 대해 기록하고 공유하고자 하는 공간"
+description              : "공부하고 상상하고 창작하고 기록하려고 만든 뒤죽박죽 개발자 공간"
 url                      : "https://MichaelHjShin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "MichaelHjShin.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "HeeJae Shin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  name             : "Michael HJ Shin"
+  avatar           : "/assets/images/my_profile_butterfly.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "공부하고 상상하고 창작하고 기록하려고 만든 뒤죽박죽 개발자 공간"
   location         : "South Korea(RPOK)"
-  email            : micahelhjshin@gmail.com
+  email            : #micahelhjshin@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "michaelhjshin@gmail.com"
+      url: "michaelhjshin@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -122,7 +122,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/MichaelHjShin"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
