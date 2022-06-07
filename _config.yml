@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Michael HJ Shin"
   avatar           : "/assets/images/my_profile_butterfly.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "공부하고 상상하고 창작하고 기록하려고 만든 뒤죽박죽 개발자 공간"
+  bio              : "공부하는 개발자 공간"
   location         : "South Korea(RPOK)"
   email            : #micahelhjshin@gmail.com
   links:
