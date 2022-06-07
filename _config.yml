@@ -20,7 +20,7 @@ title                    : "@ToDo Dev/Learn/Create Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Michael HJ Shin"
-description              : "공부하고 상상하고 창작하고 기록하려고 만든 뒤죽박죽 개발자 공간"
+description              : "공부하는 개발자 공간"
 url                      : "https://MichaelHjShin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "MichaelHjShin/MichaelHjShin.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
