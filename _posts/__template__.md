@@ -1,17 +1,17 @@
 ---
-title:  "첫번째 포스트"
-excerpt: "삭제 예정. 처음 올리는 테스트 포스트로 MarkDown 문법 테스트 중입니다"
+title:  "Template"
+excerpt: "Template"
 
 categories:
   - Blog
 tags:
-  - [Blog, Github]
+  - [Diary, Blog, Study, Research, Cpp, C#, VB, Python, Rust, UE5, WPF, QT, UWP]
 
 toc: true
 toc_sticky: true
  
-date: 2022-03-12
-last_modified_at: 2022-03-12
+date: YYYY-MM-DD
+last_modified_at: YYYY-MM-DD
 ---
 
 # 1. MarkDown 포맷 테스트
